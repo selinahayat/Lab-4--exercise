@@ -28,9 +28,7 @@ main {
 section {
   font-size: 1em;
   background: #888;
-  width: 22%;
   margin: 1em 1% 1em 1%;
-  display: inline-block;
 }
 section:hover {
   background: #666;
@@ -41,7 +39,7 @@ section:hover {
   body {
   background: red;}
   section{
-	  width: 454;
+	  width: 45%;
 	  display:inline-block;
 }
 
@@ -51,7 +49,7 @@ section:hover {
   background: blue;
 }
 section{
-	width: 224;
+	width: 22%;
 	  
 
 
