@@ -35,3 +35,23 @@ section {
 section:hover {
   background: #666;
 }
+
+/* FIRST BREAKPOINT (MEDIUM SIZE) */
+@media screen and (min-width: 500px) {
+  body {
+  background: red;}
+  section{
+	  width: 454;
+	  display:inline-block;
+}
+
+/* SECOND BREAKPOINT (DESKTOP SIZE) */
+@media screen and (min-width: 1000px) {
+  body {
+  background: blue;
+}
+section{
+	width: 224;
+	  
+
+
